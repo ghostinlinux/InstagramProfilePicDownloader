@@ -16,6 +16,7 @@ You can download Instagram Profile Pic
 ## Enter your Device location
 
 For Android user --> /sdcard    or  /sdcard/yourFoldername
+
 For Desktop User -- > Desktop   or Enter your own choice
 
 ## Enter Username
