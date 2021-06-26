@@ -3,14 +3,22 @@ You can download Instagram Profile Pic
 
 ## Run this command windows/Termux
 
+    git clone https://github.com/ghostinlinux/InstagramProfilePicDownloader.git
+
+    cd InstagramProfilePicDownloader
+
     pip install instaloader
-    
+
     python instadpdownloader.py
 
 ## Command for Linux
 
+    git clone https://github.com/ghostinlinux/InstagramProfilePicDownloader.git
+
+    cd InstagramProfilePicDownloader
+
     pip3 install instaloader
-    
+
     python3 instadpdownloader.py
 
 ## Enter your Device location
